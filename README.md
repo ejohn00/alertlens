@@ -11,7 +11,7 @@ Local storage where needed
 
 
 
-giSoftware
+Software
 Python
 C / C++
 TensorFlow Lite / TinyML
