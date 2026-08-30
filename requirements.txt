@@ -3,3 +3,11 @@ librosa
 numpy
 scikit-learn
 matplotlib
+
+
+paano magcommit
+git status
+git pull
+git add .
+git commit -m "Describe what you changed"
+git push
