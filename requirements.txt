@@ -9,5 +9,7 @@ paano magcommit
 git status
 git pull
 git add .
+or 
+git add <filename>
 git commit -m "Describe what you changed"
 git push
